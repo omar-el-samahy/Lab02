@@ -3,6 +3,7 @@ class HelloWorld {
         System.out.println("Hello ITI");
         System.out.println("Hello GIT");
         System.out.println(args[30]);
+        System.out.println(args[20]);
 		System.out.println(args[1]);
     }
 }
